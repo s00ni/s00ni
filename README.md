@@ -1,6 +1,6 @@
 ## Hello! 👋🏼
 
-I'm an IT analyst based in Northern Virginia pivoting into Cloud Engineering. When I'm not staring at a screen, I like to read, sew, and make sure my cat doesn't eat plastic.
+I'm an IT analyst based in Northern Virginia. When I'm not staring at a screen, I like to read, sew, and make sure my cat doesn't eat plastic.
 
 ## Currently, I am
 - 💻 Working on hands-on AWS & Terraform projects  
